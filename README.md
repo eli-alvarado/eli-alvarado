@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0f0a&height=180&section=header&text=E%20L%20I&fontSize=80&fontColor=00ff9f&fontAlign=50&fontAlignY=45&desc=%3E%20PLAYER%201%20%2F%2F%20SYSTEM%20ONLINE&descSize=16&descAlignY=78&descAlign=50" alt="E L I" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=INSERT+COIN+TO+CONTINUE_;SR+MANAGER%2C+FRONT+END+DEV+%40+E.L.F.+BEAUTY;SHIPPING+AI-POWERED+PRODUCTS;LOCATION%3A+AUSTIN%2C+TX" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=SR+MANAGER%2C+FRONT+END+DEV+%40+E.L.F.+BEAUTY;SHIPPING+AI-POWERED+PRODUCTS;LOCATION%3A+AUSTIN%2C+TX" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -48,10 +48,6 @@ eli@austin:~$ ./connect --linkedin
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0&amp;custom_title=PLAYER%201%20STATS" alt="GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-alvarado&amp;layout=compact&amp;bg_color=000000&amp;title_color=00ff9f&amp;text_color=e6e6e6&amp;border_color=00ff9f&amp;border_radius=0&amp;custom_title=LOADOUT" alt="Top languages" />
-  <img src="https://ghstats.dev/api/sparkline?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0" alt="Last 30 days of activity" />
 </p>
 
 <p align="center"><code>GAME OVER? NEVER. PRESS START.</code><br/><a href="https://www.linkedin.com/in/eli-alvarado">&gt; CONNECT ON LINKEDIN</a></p>
