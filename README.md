@@ -1,6 +1,6 @@
 # Hi, I'm Eli 👋
 
-Software engineer based in **Seguin, Texas**. I work at **[e.l.f. Beauty](https://www.elfbeauty.com)** and build AI-powered products on the side: agent platforms, developer tooling, and Rails apps that ship.
+Software engineer based in **Seguin, Texas**. I'm **Senior Manager, Front End Development** at **[e.l.f. Beauty](https://www.elfbeauty.com)** (since July 2023), and I build AI-powered products on the side: agent platforms, developer tooling, and Rails apps that ship.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eli--alvarado-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eli-alvarado)
 
