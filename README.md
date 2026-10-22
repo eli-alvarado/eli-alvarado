@@ -50,7 +50,7 @@ eli@austin:~$ ./connect --linkedin
   <img src="https://ghstats.dev/api/card?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0&amp;custom_title=PLAYER%201%20STATS" alt="GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://ghstats.dev/api/langs?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0&amp;layout=compact&amp;max_langs=6" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-alvarado&amp;layout=compact&amp;bg_color=000000&amp;title_color=00ff9f&amp;text_color=e6e6e6&amp;border_color=00ff9f&amp;border_radius=0&amp;custom_title=LOADOUT" alt="Top languages" />
   <img src="https://ghstats.dev/api/sparkline?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0" alt="Last 30 days of activity" />
 </p>
 
