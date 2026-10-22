@@ -46,9 +46,12 @@ eli@austin:~$ ./connect --linkedin
 
 ## `> HIGH_SCORES`
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eli-alvarado&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9f&icon_color=00e5ff&text_color=e6e6e6&ring_color=00ff9f&custom_title=PLAYER%201%20STATS" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-alvarado&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9f&text_color=e6e6e6&custom_title=LOADOUT" alt="Top languages" />
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0&amp;custom_title=PLAYER%201%20STATS" alt="GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0&amp;layout=compact&amp;max_langs=6" alt="Top languages" />
+  <img src="https://ghstats.dev/api/sparkline?username=eli-alvarado&amp;bg=000000&amp;text=e6e6e6&amp;title_color=00ff9f&amp;icon_color=00e5ff&amp;border_color=00ff9f&amp;border_radius=0" alt="Last 30 days of activity" />
 </p>
 
 <p align="center"><code>GAME OVER? NEVER. PRESS START.</code><br/><a href="https://www.linkedin.com/in/eli-alvarado">&gt; CONNECT ON LINKEDIN</a></p>
