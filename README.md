@@ -11,6 +11,7 @@ Software engineer based in **Seguin, Texas**. I'm **Senior Manager, Front End De
 | **[Configure My AI](https://configuremyai.com)** | An AI agent platform from 9th Designs. I help build it, including its Chrome extension that lets the assistant work in your browser. |
 | **[Move](https://m0ve.app)** | Calendars, events, ticketing, groups, and messaging on one timeline (web + iOS). Co-built with David at 9th Designs. |
 | **[FixLoop](https://fixloop.dev)** | Fixed-price, 24-hour fixes for broken Lovable + Supabase apps: auth loops, deploy/env issues, Stripe live-mode bugs. No fix, no pay. |
+| **[PatchPulse](https://getpatchpulse.com)** | A free, automated speed and security check for any business website: a plain-English verdict, A to F grades, and the top fixes to do first, plus optional weekly monitoring. |
 | **[AgentKit Drawer](https://agentkitdrawer.com)** | Drop-in rule packs (AGENTS.md, CLAUDE.md, Cursor rules) for Cursor, Claude Code, and Codex, so coding agents follow your stack from the first prompt. |
 | **[us-watchlist-alerts](https://github.com/eli-alvarado/us-watchlist-alerts)** | Open-source Agent Skills for US stock watchlists: NYSE-aware price alerts, daily market briefs, and charts. Python, no API key, never places trades. |
 
