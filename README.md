@@ -1,7 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0f0a&height=180&section=header&text=E%20L%20I&fontSize=80&fontColor=00ff9f&fontAlign=50&fontAlignY=45&desc=%3E%20PLAYER%201%20%2F%2F%20SYSTEM%20ONLINE&descSize=16&descAlignY=78&descAlign=50" alt="E L I" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=INSERT+COIN+TO+CONTINUE_;SR+MANAGER%2C+FRONT+END+DEV+%40+E.L.F.+BEAUTY;BUILDING+AI+AGENTS+THAT+DRIVE+THE+BROWSER;LOCATION%3A+AUSTIN%2C+TX" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=00FF9F&background=00000000&center=true&vCenter=true&width=700&lines=INSERT+COIN+TO+CONTINUE_;SR+MANAGER%2C+FRONT+END+DEV+%40+E.L.F.+BEAUTY;SHIPPING+AI-POWERED+PRODUCTS;LOCATION%3A+AUSTIN%2C+TX" alt="typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/eli-alvarado"><img src="https://img.shields.io/badge/LINKEDIN-%2F%2F%20ELI--ALVARADO-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9f&labelColor=000000&color=0a0f0a" alt="LinkedIn" /></a>
 </p>
 
 ```console
@@ -22,7 +26,7 @@ eli@austin:~$ ./connect --linkedin
 
 | ID | PROGRAM | DESCRIPTION |
 |:--:|---|---|
-| `01` | **[Configure My AI](https://configuremyai.com)** | 9th Designs' AI agent platform. I help with development, including the Chrome extension that lets the assistant work in your browser. |
+| `01` | **[Configure My AI](https://configuremyai.com)** | 9th Designs' AI agent platform. I help with development through constant product enhancements and improvements. |
 | `02` | **[Move](https://m0ve.app)** | Calendars, events, ticketing, groups, and messaging on one timeline (web + iOS). I help with development. |
 | `03` | **[FixLoop](https://fixloop.dev)** | Fixed-price, 24-hour fixes for broken Lovable + Supabase apps. No fix, no pay. |
 | `04` | **[PatchPulse](https://getpatchpulse.com)** | Free speed and security check for any business site: plain-English verdict, A to F grades, top fixes first, optional weekly monitoring. |
@@ -39,7 +43,6 @@ eli@austin:~$ ./connect --linkedin
 ![Stripe](https://img.shields.io/badge/STRIPE-000000?style=for-the-badge&logo=stripe&logoColor=00ff9f)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=00ff9f)
 ![AI Agents](https://img.shields.io/badge/AI_AGENTS-000000?style=for-the-badge)
-![Chrome Extensions](https://img.shields.io/badge/CHROME_EXTENSIONS-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff9f)
 
 ## `> HIGH_SCORES`
 
@@ -48,4 +51,4 @@ eli@austin:~$ ./connect --linkedin
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eli-alvarado&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9f&text_color=e6e6e6&custom_title=LOADOUT" alt="Top languages" />
 </p>
 
-<p align="center"><code>GAME OVER? NEVER. PRESS START.</code></p>
+<p align="center"><code>GAME OVER? NEVER. PRESS START.</code><br/><a href="https://www.linkedin.com/in/eli-alvarado">&gt; CONNECT ON LINKEDIN</a></p>
